@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pixabay_project/static/css/main.3c2fbc6f.css",
-    "main.js": "/Pixabay_project/static/js/main.53f8d993.js",
-    "static/js/787.7c57af1d.chunk.js": "/Pixabay_project/static/js/787.7c57af1d.chunk.js",
-    "index.html": "/Pixabay_project/index.html",
-    "main.3c2fbc6f.css.map": "/Pixabay_project/static/css/main.3c2fbc6f.css.map",
-    "main.53f8d993.js.map": "/Pixabay_project/static/js/main.53f8d993.js.map",
-    "787.7c57af1d.chunk.js.map": "/Pixabay_project/static/js/787.7c57af1d.chunk.js.map"
+    "main.css": "./static/css/main.3c2fbc6f.css",
+    "main.js": "./static/js/main.92c717be.js",
+    "static/js/787.7c57af1d.chunk.js": "./static/js/787.7c57af1d.chunk.js",
+    "index.html": "./index.html",
+    "main.3c2fbc6f.css.map": "./static/css/main.3c2fbc6f.css.map",
+    "main.92c717be.js.map": "./static/js/main.92c717be.js.map",
+    "787.7c57af1d.chunk.js.map": "./static/js/787.7c57af1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c2fbc6f.css",
-    "static/js/main.53f8d993.js"
+    "static/js/main.92c717be.js"
   ]
 }
